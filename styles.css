@@ -4,7 +4,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
-    background-image: url("./logo.png");
+    background-image: url("./main/logo.png");
     border-radius: 5px;
 }.logo-icon:hover{
     width:65px;
