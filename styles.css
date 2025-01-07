@@ -1,0 +1,23 @@
+.logo-icon{
+    width:30px;
+    height: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url("./logo.png");
+    border-radius: 5px;
+}.logo-icon:hover{
+    width:65px;
+    height: 60px;
+}#google-map{
+    align-content: center;
+    padding-left: 10vw;
+}.main-banner{
+    width:500px;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-image: url("./main/banner.png");
+    border-radius: 5px;
+}
