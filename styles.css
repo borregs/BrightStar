@@ -20,4 +20,10 @@
     display: inline-block;
     background-image: url("./main/banner.png");
     border-radius: 5px;
+}.tempo{
+    color: white;
+}.fa-stack.small {
+    font-size: 0.5em;
+}i{
+    vertical-align: middle;
 }
